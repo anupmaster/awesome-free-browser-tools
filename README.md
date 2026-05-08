@@ -53,6 +53,7 @@ All tools on this list are:
 | [Payment Fee Calculator](https://wowhow.cloud/tools/payment-fee-calculator) | Calculate Stripe, Razorpay, PayPal processing fees and how much to charge to net a target amount. | wowhow.cloud |
 | [Cron Expression Generator](https://wowhow.cloud/tools/cron-expression-generator) | Build and validate cron expressions with human-readable descriptions. | wowhow.cloud |
 | [BMI Calculator](https://wowhow.cloud/tools/bmi-calculator) | WHO-standard BMI calculator with 6 categories. Height in cm or ft/in, weight in kg or lbs. | wowhow.cloud |
+| [TinyTools](https://tinytools-smoky.vercel.app/) | Free single-purpose web utilities — favicon generator, OG image generator, color palette generator, SEO meta tags, AI background remover (runs locally via ONNX), AI cost calculator, robots.txt generator, domain name generator. No signup, fully browser-based, open source. | tinytools-smoky.vercel.app |
 
 ## SEO & Content Tools
 
