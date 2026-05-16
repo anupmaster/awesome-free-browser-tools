@@ -1,4 +1,10 @@
-# Awesome Free Browser Tools
+
+
+---
+
+## 🌐 All-in-One Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: PDF (merge, split, compress, sign, OCR, redact), image (background removal, resize, compress), video to GIF, QR codes, invoices, JSON formatter, UUID, password generator. 100% client-side — no signup, no upload, works offline.# Awesome Free Browser Tools
 
 > A curated list of free, browser-based tools that require no signup and run entirely client-side.
 
