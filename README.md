@@ -96,3 +96,10 @@ Open an issue with the label `tool-suggestion` and include the URL and why it qu
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related rights to this work.
+
+
+---
+
+## 🌐 Multi-Category All-in-One Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: finance calculators, developer tools (JSON, Base64, UUID, JWT, hash, regex, QR codes, password gen), PDF (merge/split/compress/sign/OCR/redact), image (AI background removal, HEIC→JPG, resize), video to GIF, invoices. Zero upload, zero account.
