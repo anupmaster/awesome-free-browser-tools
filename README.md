@@ -50,6 +50,8 @@ All tools on this list are:
 | [Regex Tester](https://wowhow.cloud/tools/regex-tester) | Test regular expressions with live match highlighting and named groups. | wowhow.cloud |
 | [Base64 Encoder](https://wowhow.cloud/tools/base64-encoder) | Encode and decode Base64 strings. Supports file upload to Base64 conversion. | wowhow.cloud |
 | [Color Palette Generator](https://wowhow.cloud/tools/color-palette-generator) | Generate harmonious color palettes from a seed color with export to CSS/Tailwind. | wowhow.cloud |
+| [Cron Expression Generator](https://wowhow.cloud/tools/cron-expression-generator) | Build and validate cron expressions with human-readable descriptions. | wowhow.cloud |
+| [Hash Generator](https://devbox.tools/utils/md5-sha1-sha256-hash-generator) | Generate MD5, SHA1, SHA256, SHA512, SHA3, and RIPEMD hashes from text in the browser. | devbox.tools |
 | [Payment Fee Calculator](https://wowhow.cloud/tools/payment-fee-calculator) | Calculate Stripe, Razorpay, PayPal processing fees and how much to charge to net a target amount. | wowhow.cloud |
 | [Cron Expression Generator](https://wowhow.cloud/tools/cron-expression-generator) | Build and validate cron expressions with human-readable descriptions. | wowhow.cloud |
 | [BMI Calculator](https://wowhow.cloud/tools/bmi-calculator) | WHO-standard BMI calculator with 6 categories. Height in cm or ft/in, weight in kg or lbs. | wowhow.cloud |
