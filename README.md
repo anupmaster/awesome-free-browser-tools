@@ -71,6 +71,7 @@ All tools on this list are:
 | [QR Code Generator](https://wowhow.cloud/tools/qr-code-generator) | Generate QR codes for URLs, text, WiFi, and contact info. Download as PNG. | wowhow.cloud |
 | [Password Generator](https://wowhow.cloud/tools/password-generator) | Cryptographically secure passwords with custom length, character sets, and entropy display. | wowhow.cloud |
 | [Unit Converter](https://wowhow.cloud/tools/unit-converter) | Convert between 200+ units across length, weight, temperature, area, volume, and more. | wowhow.cloud |
+| [Concrete Calculator Hub](https://concreteestimatorhub.com/) | Free concrete volume, bag count, slab, footing, post hole, and material cost calculators for project planning. | concreteestimatorhub.com |
 | [CAGR Calculator](https://wowhow.cloud/tools/cagr-calculator) | Compound Annual Growth Rate calculator for investments and business metrics. | wowhow.cloud |
 | [GSTIN Validator](https://wowhow.cloud/tools/gstin-validator) | Validate any Indian GSTIN with checksum verification and state code lookup. | wowhow.cloud |
 
