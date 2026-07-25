@@ -40,6 +40,7 @@ All tools on this list are:
 | [Tip Calculator](https://wowhow.cloud/tools/tip-calculator) | Tip amount calculator with bill splitter for groups and custom tip percentages. | wowhow.cloud |
 | [GST Invoice Generator](https://wowhow.cloud/tools/gst-invoice-generator) | Generate GST-compliant invoices with CGST/SGST/IGST split. Print or save as PDF. | wowhow.cloud |
 | [Salary Slip Generator](https://wowhow.cloud/tools/salary-slip-generator) | Professional payslip generator with HRA, DA, PF, and deduction breakdown. | wowhow.cloud |
+| [Car Lease Calculator](https://nutilz.com/car-lease-calculator) | Calculates monthly lease payment and total lease cost from MSRP, negotiated price, money factor, and residual value. | nutilz.com |
 
 ## Developer Tools
 
