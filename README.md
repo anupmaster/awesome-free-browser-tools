@@ -73,6 +73,7 @@ All tools on this list are:
 | [Unit Converter](https://wowhow.cloud/tools/unit-converter) | Convert between 200+ units across length, weight, temperature, area, volume, and more. | wowhow.cloud |
 | [CAGR Calculator](https://wowhow.cloud/tools/cagr-calculator) | Compound Annual Growth Rate calculator for investments and business metrics. | wowhow.cloud |
 | [GSTIN Validator](https://wowhow.cloud/tools/gstin-validator) | Validate any Indian GSTIN with checksum verification and state code lookup. | wowhow.cloud |
+| [Korelyy](https://korelyy.com) | Privacy-first collection of 100+ free online tools (image, PDF, unit, JSON, generators). No signup, runs entirely in your browser. Six languages supported. | korelyy.com |
 
 ---
 
@@ -96,3 +97,4 @@ Open an issue with the label `tool-suggestion` and include the URL and why it qu
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related rights to this work.
+
