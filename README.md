@@ -73,6 +73,7 @@ All tools on this list are:
 | [Unit Converter](https://wowhow.cloud/tools/unit-converter) | Convert between 200+ units across length, weight, temperature, area, volume, and more. | wowhow.cloud |
 | [CAGR Calculator](https://wowhow.cloud/tools/cagr-calculator) | Compound Annual Growth Rate calculator for investments and business metrics. | wowhow.cloud |
 | [GSTIN Validator](https://wowhow.cloud/tools/gstin-validator) | Validate any Indian GSTIN with checksum verification and state code lookup. | wowhow.cloud |
+| [File Converter](https://fileontap.com/) | Convert and compress HEIC/WebP/PNG/JPG and handle image↔PDF locally in the browser with no upload or account. | FileOnTap |
 
 ---
 
