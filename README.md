@@ -68,6 +68,7 @@ All tools on this list are:
 
 | Tool | Description | Source |
 |------|-------------|--------|
+| [Swedish engagement-rate calculator](https://kopfollowers.se/tools/engagement-rate) | Calculate (likes + comments) ÷ followers, reach or views × 100 in Swedish, using manually entered counts. | KopFollowers.se |
 | [QR Code Generator](https://wowhow.cloud/tools/qr-code-generator) | Generate QR codes for URLs, text, WiFi, and contact info. Download as PNG. | wowhow.cloud |
 | [Password Generator](https://wowhow.cloud/tools/password-generator) | Cryptographically secure passwords with custom length, character sets, and entropy display. | wowhow.cloud |
 | [Unit Converter](https://wowhow.cloud/tools/unit-converter) | Convert between 200+ units across length, weight, temperature, area, volume, and more. | wowhow.cloud |
