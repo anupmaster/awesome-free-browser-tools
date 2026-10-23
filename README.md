@@ -15,6 +15,7 @@ All tools on this list are:
 ## Contents
 
 - [Finance & Tax Calculators](#finance--tax-calculators)
+- [Home & Construction Calculators](#home--construction-calculators)
 - [Developer Tools](#developer-tools)
 - [SEO & Content Tools](#seo--content-tools)
 - [Utility Tools](#utility-tools)
@@ -40,6 +41,12 @@ All tools on this list are:
 | [Tip Calculator](https://wowhow.cloud/tools/tip-calculator) | Tip amount calculator with bill splitter for groups and custom tip percentages. | wowhow.cloud |
 | [GST Invoice Generator](https://wowhow.cloud/tools/gst-invoice-generator) | Generate GST-compliant invoices with CGST/SGST/IGST split. Print or save as PDF. | wowhow.cloud |
 | [Salary Slip Generator](https://wowhow.cloud/tools/salary-slip-generator) | Professional payslip generator with HRA, DA, PF, and deduction breakdown. | wowhow.cloud |
+
+## Home & Construction Calculators
+
+| Tool | Description | Source |
+|------|-------------|--------|
+| [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) | Estimate US roof replacement cost ranges by size, material, location, and tear-off choice. | roofcostdata.com |
 
 ## Developer Tools
 
