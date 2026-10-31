@@ -47,6 +47,7 @@ All tools on this list are:
 |------|-------------|--------|
 | [AI Prompt Cost Calculator](https://wowhow.cloud/tools/ai-prompt-cost-calculator) | Compare API costs across Claude, GPT-4, Gemini with real-time token pricing. | wowhow.cloud |
 | [JSON Formatter](https://wowhow.cloud/tools/json-formatter) | Validate, format, and minify JSON. Syntax highlighting, error detection. | wowhow.cloud |
+| [BestJSON](https://bestjson.com/json-diff) | Compare JSON structures and inspect added, removed, and changed values locally without an account. | bestjson.com |
 | [Regex Tester](https://wowhow.cloud/tools/regex-tester) | Test regular expressions with live match highlighting and named groups. | wowhow.cloud |
 | [Base64 Encoder](https://wowhow.cloud/tools/base64-encoder) | Encode and decode Base64 strings. Supports file upload to Base64 conversion. | wowhow.cloud |
 | [Color Palette Generator](https://wowhow.cloud/tools/color-palette-generator) | Generate harmonious color palettes from a seed color with export to CSS/Tailwind. | wowhow.cloud |
